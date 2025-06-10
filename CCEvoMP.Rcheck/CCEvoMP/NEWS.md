@@ -1,9 +1,3 @@
-# CCEvoMP 0.1.6 (CRAN Resubmission)
-
-## CRAN Fixes
-* Removed all remaining references to LICENSE file in package documentation
-* Updated package version to 0.1.6
-
 # CCEvoMP 0.1.5 (CRAN Resubmission)
 
 ## CRAN Fixes

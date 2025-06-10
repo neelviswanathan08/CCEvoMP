@@ -1,0 +1,33 @@
+analyze_entire_series   Analyze Entire Time Series for Evolutionary
+                        Patterns
+analyze_grw_trait       Analyze Trait Data for General Random Walk
+                        (GRW) Pattern
+analyze_oldest_to_youngest
+                        Analyze Time Series Data from Oldest to
+                        Youngest
+analyze_stasis_trait    Analyze Trait Data for Stasis Pattern
+analyze_time_range      Analyze a Specific Time Range in Trait Data
+analyze_urw_trait       Analyze Trait Data for Unbiased Random Walk
+                        (URW) Pattern
+create_prediction_output
+                        Create a beautiful output for model predictions
+detect_patterns         Internal function to detect non-random events
+                        in time series data This function is not meant
+                        to be called directly by users. It is used
+                        internally by analyze_stasis_trait,
+                        analyze_urw_trait, and analyze_grw_trait.
+find_largest_valid_interval
+                        Find the largest possible interval where any
+                        simple model can be predicted
+find_segment_end        Find the first time point where a simple model
+                        can be predicted
+predict_evolutionary_model
+                        Predict Evolutionary Model for Time Series Data
+subset_time_series      Subset time series data to a specific time
+                        range
+visualize_results       Visualize Control Chart Results with Detected
+                        Patterns
+visualize_subgroups     Internal function to visualize subgroups and
+                        transitions on an X-Bar Chart This function is
+                        not meant to be called directly by users. It is
+                        used internally by analyze_entire_series.

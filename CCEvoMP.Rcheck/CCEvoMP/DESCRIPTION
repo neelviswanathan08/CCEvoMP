@@ -1,7 +1,7 @@
 Package: CCEvoMP
 Type: Package
 Title: Control Chart Evolutionary Model Predictor
-Version: 0.1.6
+Version: 0.1.5
 Date: 2025-06-10
 Authors@R: 
     person("Neel", "Viswanathan", 
@@ -10,34 +10,20 @@ Authors@R:
 Maintainer: Neel Viswanathan <neelviswanathan08@gmail.com>
 Description: Implements a hierarchical model selection framework for analyzing evolutionary patterns in time series data using control chart methodology. The package helps identify the best-fitting evolutionary model (Stasis, Unbiased Random Walk, or General Random Walk) for evolutionary biology time series data.
 License: GPL-2
-LazyData: true
 URL: https://github.com/neelviswanathan08/CCEvoMP
 BugReports: https://github.com/neelviswanathan08/CCEvoMP/issues
-Depends: 
-    R (>= 3.5.0)
-Imports: 
-    dplyr (>= 1.0.0),
-    forecast (>= 8.13),
-    ggplot2 (>= 3.3.0),
-    graphics,
-    grDevices,
-    grid,
-    methods,
-    nortest (>= 1.0.0),
-    qcc (>= 2.7),
-    stats,
-    stringr (>= 1.4.0),
-    tseries (>= 0.10.50),
-    utils,
-    magrittr (>= 2.0.0)
-Suggests: 
-    knitr (>= 1.30),
-    rmarkdown (>= 2.5),
-    testthat (>= 3.0.0),
-    covr (>= 3.5.0)
+Depends: R (>= 3.5.0)
+Imports: dplyr (>= 1.0.0), forecast (>= 8.13), ggplot2 (>= 3.3.0),
+        graphics, grDevices, grid, methods, nortest (>= 1.0.0), qcc (>=
+        2.7), stats, stringr (>= 1.4.0), tseries (>= 0.10.50), utils,
+        magrittr (>= 2.0.0)
+Suggests: knitr (>= 1.30), rmarkdown (>= 2.5), testthat (>= 3.0.0),
+        covr (>= 3.5.0)
 Encoding: UTF-8
-LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Config/testthat/edition: 3
 NeedsCompilation: no
+Packaged: 2025-06-10 22:12:39 UTC; neelviswanathan
+Author: Neel Viswanathan [aut, cre, cph]
+Built: R 4.5.0; ; 2025-06-10 22:13:10 UTC; unix

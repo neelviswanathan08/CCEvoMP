@@ -1,4 +1,4 @@
-# CCEvoMP 0.1.6: Control Chart Evolutionary Model Predictor
+# CCEvoMP 0.1.5: Control Chart Evolutionary Model Predictor
 
 [![Github](https://img.shields.io/badge/Github-CCEvoMP-blue.svg)](https://github.com/neelviswanathan08/CCEvoMP)
 

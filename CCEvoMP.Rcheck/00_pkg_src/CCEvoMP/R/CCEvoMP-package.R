@@ -3,10 +3,10 @@
 #' @description
 #' The CCEvoMP package provides tools for analyzing time series data in
 #' evolutionary contexts, with a focus on detecting punctuated equilibrium
-#' and stasis patterns using control chart methodology.
+#' and stasis patterns.
 #'
 #' @details
-#' Version: 0.1.5
+#' Version: 0.1.2
 #'
 #' @keywords internal
 "_PACKAGE"
