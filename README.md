@@ -1,8 +1,8 @@
-# CCEvoMP 0.1.4: Control Chart Evolutionary Model Predictor
+# CCEvoMP 0.1.5: Control Chart Evolutionary Model Predictor
 
 [![Github](https://img.shields.io/badge/Github-CCEvoMP-blue.svg)](https://github.com/neelviswanathan08/CCEvoMP)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL-2](https://img.shields.io/badge/License-GPL--2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
 [![CRAN](https://img.shields.io/badge/CRAN-0.1.4-green.svg)](https://CRAN.R-project.org/package=CCEvoMP)
 
@@ -315,7 +315,7 @@ We welcome contributions! Feel free to open an issue or submit a pull request on
 
 ## 📜 License
 
-MIT © [Neel Viswanathan](https://github.com/neelviswanathan08)
+GPL-2 © [Neel Viswanathan](https://github.com/neelviswanathan08)
 
 ## 📝 Citation
 
@@ -369,7 +369,7 @@ We welcome contributions! Please see our [GitHub Issues](https://github.com/neel
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL-2 License.
 
 ## 📚 References
 

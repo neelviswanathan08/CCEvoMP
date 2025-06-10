@@ -1,3 +1,10 @@
+# CCEvoMP 0.1.5 (CRAN Resubmission)
+
+## CRAN Fixes
+* Fixed README.md to remove references to MIT License and non-existent LICENSE file
+* Updated all license references to GPL-2
+* Updated package version to 0.1.5
+
 # CCEvoMP 0.1.4 (CRAN Resubmission)
 
 ## CRAN Fixes

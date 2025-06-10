@@ -1,7 +1,7 @@
 Package: CCEvoMP
 Type: Package
 Title: Control Chart Evolutionary Model Predictor
-Version: 0.1.4
+Version: 0.1.5
 Date: 2025-06-10
 Authors@R: 
     person("Neel", "Viswanathan", 
