@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![CRAN](https://img.shields.io/badge/CRAN-0.1.3-green.svg)](https://CRAN.R-project.org/package=CCEvoMP)
+[![CRAN](https://img.shields.io/badge/CRAN-0.1.4-green.svg)](https://CRAN.R-project.org/package=CCEvoMP)
 
 
 > **CCEvoMP** is an R package for analyzing evolutionary patterns in time series data using control chart methodology. It implements a hierarchical model selection framework for identifying the best-fitting evolutionary model (Stasis, Unbiased Random Walk, or General Random Walk) for evolutionary biology time series data.
@@ -304,6 +304,8 @@ plot_evolutionary_series(results) +
 | Plot issues | Update `ggplot2` |
 
 ## 🤝 Contributing
+
+We welcome contributions! Please read our [Contributing Guidelines](https://github.com/neelviswanathan08/CCEvoMP/blob/main/CONTRIBUTING.md) for details on how to contribute to this project.
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing`)
