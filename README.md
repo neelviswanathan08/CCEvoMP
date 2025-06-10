@@ -305,7 +305,7 @@ plot_evolutionary_series(results) +
 
 ## 🤝 Contributing
 
-We welcome contributions! Please read our [Contributing Guidelines](https://github.com/neelviswanathan08/CCEvoMP/blob/main/CONTRIBUTING.md) for details on how to contribute to this project.
+We welcome contributions! Feel free to open an issue or submit a pull request on [GitHub](https://github.com/neelviswanathan08/CCEvoMP).
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing`)

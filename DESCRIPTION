@@ -9,7 +9,7 @@ Authors@R:
            role = c("aut", "cre", "cph"))
 Maintainer: Neel Viswanathan <neelviswanathan08@gmail.com>
 Description: Implements a hierarchical model selection framework for analyzing evolutionary patterns in time series data using control chart methodology. The package helps identify the best-fitting evolutionary model (Stasis, Unbiased Random Walk, or General Random Walk) for evolutionary biology time series data.
-License: MIT + file LICENSE
+License: GPL-2
 LazyData: true
 URL: https://github.com/neelviswanathan08/CCEvoMP
 BugReports: https://github.com/neelviswanathan08/CCEvoMP/issues
