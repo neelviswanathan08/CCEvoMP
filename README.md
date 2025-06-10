@@ -1,19 +1,19 @@
-# CCEvoMP: Control Chart Evolutionary Model Predictor
+# CCEvoMP 0.1.4: Control Chart Evolutionary Model Predictor
 
-[![Github](https://img.shields.io/badge/Github-CCEvoMP-blue.svg)](https://github.com/neelviswanathan/CCEvoMP)
+[![Github](https://img.shields.io/badge/Github-CCEvoMP-blue.svg)](https://github.com/neelviswanathan08/CCEvoMP)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![CRAN](https://img.shields.io/badge/CRAN-0.1.0-green.svg)](https://CRAN.R-project.org/package=CCEvoMP)
+[![CRAN](https://img.shields.io/badge/CRAN-0.1.3-green.svg)](https://CRAN.R-project.org/package=CCEvoMP)
 
 
-> **CCEvoMP** is an R package for analyzing evolutionary patterns in time series data using control chart methodology. It implements a hierarchical model selection framework for identifying the best-fitting evolutionary model (Stasis, Unbiased Random Walk, or General Random Walk) for paleontological and evolutionary time series data.
+> **CCEvoMP** is an R package for analyzing evolutionary patterns in time series data using control chart methodology. It implements a hierarchical model selection framework for identifying the best-fitting evolutionary model (Stasis, Unbiased Random Walk, or General Random Walk) for evolutionary biology time series data.
 
 ## 🚀 Quick Start
 
 ```r
 # Install development version
-devtools::install_github("neelviswanathan/CCEvoMP")
+devtools::install_github("neelviswanathan08/CCEvoMP")
 
 # Load package and example data
 library(CCEvoMP)
@@ -56,7 +56,7 @@ install.packages("CCEvoMP")
 if (!require("devtools")) install.packages("devtools")
 
 # Install from GitHub
-devtools::install_github("neelviswanathan/CCEvoMP")
+devtools::install_github("neelviswanathan08/CCEvoMP")
 ```
 
 ## 🔍 Core Features
@@ -313,7 +313,7 @@ plot_evolutionary_series(results) +
 
 ## 📜 License
 
-MIT © [Neel Viswanathan](https://github.com/neelviswanathan)
+MIT © [Neel Viswanathan](https://github.com/neelviswanathan08)
 
 ## 📝 Citation
 
@@ -324,7 +324,7 @@ MIT © [Neel Viswanathan](https://github.com/neelviswanathan)
   year = {2025},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {https://github.com/neelviswanathan/CCEvoMP}
+  howpublished = {https://github.com/neelviswanathan08/CCEvoMP}
 }
 ```
 
@@ -356,14 +356,14 @@ MIT © [Neel Viswanathan](https://github.com/neelviswanathan)
 
 For questions, bug reports, or feature requests, please:
 
-1. Check the [documentation](https://github.com/neelviswanathan/CCEvoMP#readme)
-2. Search [existing issues](https://github.com/neelviswanathan/CCEvoMP/issues)
-3. Open a [new issue](https://github.com/neelviswanathan/CCEvoMP/issues/new/choose)
+1. Check the [documentation](https://github.com/neelviswanathan08/CCEvoMP#readme)
+2. Search [existing issues](https://github.com/neelviswanathan08/CCEvoMP/issues)
+3. Open a [new issue](https://github.com/neelviswanathan08/CCEvoMP/issues/new/choose)
 4. Email: [neelviswanathan08@gmail.com](mailto:neelviswanathan08@gmail.com)
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to contribute to this project.
+We welcome contributions! Please see our [GitHub Issues](https://github.com/neelviswanathan08/CCEvoMP/issues) page to report bugs, request features, or discuss potential improvements.
 
 ## 📄 License
 
@@ -381,12 +381,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This package was developed with the assistance of AI tools for code generation and documentation. The author maintains full responsibility for the package's content, having reviewed and modified all generated code to ensure accuracy, efficiency, and adherence to best practices. The final implementation represents the author's original work and intellectual contribution.
 
-*Note: A manuscript describing the CCEvoMP package and its methodology is currently in preparation and is expected to be submitted for publication by the end of Summer 2025.*
+*Note: A manuscript describing the CCEvoMP package and its methodology is currently in preparation and is expected to be submitted for publication by the end of 2025.*
 
 ---
 
 <p align="center">
   Authored and Maintained by Neel Viswanathan | 
-  <a href="https://github.com/neelviswanathan/CCEvoMP">GitHub</a> | 
+  <a href="https://github.com/neelviswanathan08/CCEvoMP">GitHub</a> | 
   <a href="https://CRAN.R-project.org/package=CCEvoMP">CRAN</a>
 </p>

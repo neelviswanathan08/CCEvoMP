@@ -1,20 +1,18 @@
 Package: CCEvoMP
 Type: Package
 Title: Control Chart Evolutionary Model Predictor
-Version: 0.1.0
-Date: 2025-06-09
+Version: 0.1.4
+Date: 2025-06-10
 Authors@R: 
     person("Neel", "Viswanathan", 
            email = "neelviswanathan08@gmail.com",
            role = c("aut", "cre", "cph"))
 Maintainer: Neel Viswanathan <neelviswanathan08@gmail.com>
-Description: Provides tools for analyzing time series data in evolutionary contexts,
-    with a focus on detecting punctuated equilibrium and stasis patterns.
-    Implements control chart methodology for evolutionary model selection
-    including Stasis, Unbiased Random Walk (URW), and General Random Walk (GRW) models.
+Description: Implements a hierarchical model selection framework for analyzing evolutionary patterns in time series data using control chart methodology. The package helps identify the best-fitting evolutionary model (Stasis, Unbiased Random Walk, or General Random Walk) for evolutionary biology time series data.
 License: MIT + file LICENSE
-URL:  https://github.com/neelviswanathan08/CCEvoMP
-BugReports:  https://github.com/neelviswanathan08/CCEvoMP/issues
+LazyData: true
+URL: https://github.com/neelviswanathan08/CCEvoMP
+BugReports: https://github.com/neelviswanathan08/CCEvoMP/issues
 Depends: 
     R (>= 3.5.0)
 Imports: 
@@ -24,14 +22,14 @@ Imports:
     graphics,
     grDevices,
     grid,
-    magrittr (>= 2.0.0),
     methods,
     nortest (>= 1.0.0),
     qcc (>= 2.7),
     stats,
     stringr (>= 1.4.0),
     tseries (>= 0.10.50),
-    utils
+    utils,
+    magrittr (>= 2.0.0)
 Suggests: 
     knitr (>= 1.30),
     rmarkdown (>= 2.5),

@@ -1,21 +1,3 @@
-# Base R imports
-#' @import methods
-#' @import stats
-#' @import utils
-#' @import grDevices
-#' @import graphics
-#' @import grid
-
-# Package imports
-#' @import dplyr
-#' @import ggplot2
-#' @import qcc
-
-# Import specific functions
-#' @importFrom magrittr %>%
-#' @importFrom forecast auto.arima
-#' @importFrom nortest ad.test
-#' @importFrom tseries jarque.bera.test
 
 #' Setup Control Chart for Evolutionary Model
 #' 

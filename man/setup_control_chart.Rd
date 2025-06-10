@@ -2,7 +2,7 @@
 % Please edit documentation in R/visualize_results.R
 \name{setup_control_chart}
 \alias{setup_control_chart}
-\title{Setup a Control Chart Object}
+\title{Setup Control Chart for Evolutionary Model}
 \usage{
 setup_control_chart(
   data,
